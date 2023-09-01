@@ -94,7 +94,7 @@ Algoritmo PresupuestoManoDeObraElectricidad
 		FinSegun		
 				
 	 //Fin de la Repeticion por elejir mal en numero de Opciones.
-	Hasta Que opcion < 3 y opcion > 0
+	Hasta Que opcion < 3 y opcion > 0 o opcion = 3
 	
 	 
 FinAlgoritmo
